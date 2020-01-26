@@ -36,4 +36,4 @@ before_script:
 
 # run grading checks
 script:
-  - gradle grade
+  - gradle grade -x build
