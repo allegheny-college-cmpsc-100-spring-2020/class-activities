@@ -17,7 +17,7 @@ System.out.println("Java!");
 
 #### H4
 
-[https://cs.allegheny.edu](Computer Science, Allegheny College)
+[Computer Science, Allegheny College](https://cs.allegheny.edu)
 
 ##### H5
 
