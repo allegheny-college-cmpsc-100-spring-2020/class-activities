@@ -13,4 +13,6 @@ writing:
         CountMarkdownTags --tag "code_block" --count 1
         CountMarkdownTags --tag "link" --count 1
         CountMarkdownTags --tag "image" --count 1
+        CountMarkdownTags --tag "strong" --count 1
+        CountMarkdownTags --tag "emph" --count 1
         mdl --rules ~MD009,~MD013,~MD0022,~MD026
