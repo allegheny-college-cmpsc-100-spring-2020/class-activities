@@ -20,7 +20,7 @@ public class WordLadder {
     Scanner input = null;
     // Read input from file
     try {
-      file = new File("../../../../input/words.list");
+      file = new File("input/words.list");
       input = new Scanner(file);
     } catch (FileNotFoundException noFile) {
       System.exit(0);
