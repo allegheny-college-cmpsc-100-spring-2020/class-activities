@@ -17,7 +17,7 @@ before_install:
   - pip install --upgrade pip
   - pip install proselint
   - pip install pipenv
-  - cd activity-04
+  - cd activity-06
 
 # cache to improve build speed
 before_cache:
@@ -36,4 +36,5 @@ before_script:
 
 # run grading checks
 script:
+  - gradle build
   - gradle run -q --console plain run
