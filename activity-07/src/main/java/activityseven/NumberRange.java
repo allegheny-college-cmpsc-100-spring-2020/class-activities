@@ -21,7 +21,7 @@ public class NumberRange {
     /*
      * TODO: Create an instance of Random
      */
-     
+
      /*
       * TODO: Use the following different methods of Random and print
       *       their results:
