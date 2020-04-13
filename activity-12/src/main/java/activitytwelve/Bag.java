@@ -13,6 +13,11 @@ public class Bag {
   private int orange;
   private int blue;
   private int total;
+  
+  /*
+   * There is no Constructor, but Java will insert a blank
+   * one anyway!
+   */
 
   /** Sets the count of a given color in the bag.
    *
